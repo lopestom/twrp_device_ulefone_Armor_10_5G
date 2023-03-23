@@ -7,6 +7,7 @@ Specs: https://www.devicespecifications.com/en/model/f4085508
 Status: booting - notboot
 
 recovery-Armor_10_5G-A11-2023MMDD-hhhh.img => Working??
+ - Work but when reboot to system and rebooted in the recovery mode -- stuck in the TWRP logo.
 ------------------------------------
 Credit: tester for [osSSya - 4pda](https://4pda.to/forum/index.php?showuser=1949259)
 
