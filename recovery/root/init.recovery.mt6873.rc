@@ -29,5 +29,7 @@ on post-fs
 on post-fs
     start health-hal-2-1
 
-#start health-hal-2-1
+#on fs
 #start vendor.boot-hal-1-1
+#on post-fs
+#start health-hal-2-1
