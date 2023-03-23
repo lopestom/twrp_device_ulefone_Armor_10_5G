@@ -167,7 +167,7 @@ TW_INCLUDE_CRYPTO := false
 #TW_INCLUDE_FBE_METADATA_DECRYPT := true
 #TW_USE_FSCRYPT_POLICY := 1
 
- Additional binaries & libraries needed for recovery
+# Additional binaries & libraries needed for recovery
 TARGET_RECOVERY_DEVICE_MODULES += \
 #    libkeymaster4 \
 #    libpuresoftkeymasterdevice \
