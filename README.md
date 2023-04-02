@@ -8,6 +8,8 @@ Status: booting - notboot
 
 recovery-UA10_5G_NoCrypt-20230323.img => Working
  - Work. But for anyone know about devices updating A10 to A11 so OEMs put recovery.img in the \vendor\etc and need delete that file to have TWRP permanently.
+ - For TWRP backup \Data is need change \vendor\etc\fstab.* file for have encryptable mode.
+
 ------------------------------------
 Credit: tester for [osSSya - 4pda](https://4pda.to/forum/index.php?showuser=1949259)
 
