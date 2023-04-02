@@ -14,7 +14,10 @@ Credit: tester for [osSSya - 4pda](https://4pda.to/forum/index.php?showuser=1949
 --------------------------------
 TWRP Pictures
 -------------
-![Initial Menu](https://github.com/lopestom/twrp_device_ulefone_Armor_10_5G/)
-![Folder Encrypted](https://github.com/lopestom/twrp_device_ulefone_Armor_10_5G/)
+![Initial Menu](https://github.com/lopestom/twrp_device_ulefone_Armor_10_5G/releases/download/TWRP-Ulefone_Armor_10_5G/photo_2023-04-01_22-30-33.jpg) ![Mount](https://github.com/lopestom/twrp_device_ulefone_Armor_10_5G/releases/download/TWRP-Ulefone_Armor_10_5G/photo_2023-04-01_22-30-43.jpg)
 
 
+#### This device tree not have encrypt/decrypt mode.
+
+
+#
